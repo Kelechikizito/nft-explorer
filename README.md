@@ -33,7 +33,7 @@ npm install
 
 ### 3. Set up your environment
 
-Create a `.env.local` file in the root and add your Alchemy API key:
+Create a `.env` file in the root and add your Alchemy API key:
 
 ```env
 ALCHEMY_API_KEY=your_alchemy_api_key_here
